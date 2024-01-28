@@ -1,5 +1,5 @@
 let selectedPerson;
-let excludedIds = ["6","12","16","19","30","43","44"];
+let excludedIds = ["6","12","16","19","30","43","44","34","27","39","32","42"];
 
 function randomName() {
   // Hiển thị tên ngẫu nhiên trên trang
