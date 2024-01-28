@@ -156,91 +156,86 @@
     },
     {
         "id": "32",
-        "name": "Văn Hồng Sơn",
-        "depart": "KITCHEN"
-    },
-    {
-        "id": "33",
         "name": "Đỗ Hoàng Hải",
         "depart": "KITCHEN"
     },
     {
-        "id": "34",
+        "id": "33",
         "name": "Lê Thành Đạt",
         "depart": "KITCHEN"
     },
     {
-        "id": "35",
+        "id": "34",
         "name": "Nguyễn Lê Huyền My",
         "depart": "KITCHEN"
     },
     {
-        "id": "36",
+        "id": "35",
         "name": "Lê Thị Hồng",
         "depart": "KITCHEN"
     },
     {
-        "id": "37",
+        "id": "36",
         "name": "Nguyễn Thị Nhật Quỳnh",
         "depart": "KITCHEN"
     },
     {
-        "id": "38",
+        "id": "37",
         "name": "Dương Thị Bê Em",
         "depart": "KITCHEN"
     },
     {
-        "id": "39",
+        "id": "38",
         "name": "Huỳnh Tấn Tuấn",
         "depart": "DRIVER"
     },
     {
-        "id": "40",
+        "id": "39",
         "name": "Mai Thanh Nghị",
         "depart": "DRIVER"
     },
     {
-        "id": "41",
+        "id": "40",
         "name": "Nguyễn Phước",
         "depart": "DRIVER"
     },
     {
-        "id": "42",
+        "id": "41",
         "name": "Nguyễn Ngọc Hay",
         "depart": "SECURITY"
     },
     {
-        "id": "43",
+        "id": "42",
         "name": "Nguyễn Văn Trung",
         "depart": "SECURITY"
     },
     {
-        "id": "44",
+        "id": "43",
         "name": "Mai Hữu",
         "depart": "GARDENER"
     },
     {
-        "id": "45",
+        "id": "44",
         "name": "Nguyễn Văn Huấn",
         "depart": "GARDENER"
     },
     {
-        "id": "46",
+        "id": "45",
         "name": "Nguyễn Phú Mỹ",
         "depart": "GARDENER"
     },
     {
-        "id": "47",
+        "id": "46",
         "name": "Nguyễn Thanh Dương",
         "depart": "MAINTENANCE"
     },
     {
-        "id": "48",
+        "id": "47",
         "name": "Lê Hà",
         "depart": "MAINTENANCE"
     },
     {
-        "id": "49",
+        "id": "48",
         "name": "Nguyễn Lai",
         "depart": "Công trình"
     }
